@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vscode/
+.env
+
+# Optional lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
